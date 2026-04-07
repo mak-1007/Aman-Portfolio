@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!
 This project showcases my skills, projects, achievements, and experience as a **Java Full Stack Developer**.
 
-🔗 **Live Portfolio:** https://mak-1007.github.io/portfolio/
+🔗 **Live Portfolio:** https://mak-1007.github.io/Aman-Portfolio/
 📂 **GitHub Repo:** https://github.com/mak-1007/Aman-Portfolio
 
 ---
