@@ -1,4 +1,4 @@
-# 🚀 Mohammad Aman Khan - Developer Portfolio
+#  Mohammad Aman Khan - Developer Portfolio
 
 Welcome to my personal portfolio website!
 This project showcases my skills, projects, achievements, and experience as a **Java Full Stack Developer**.
@@ -122,7 +122,7 @@ assets/
 
 ---
 
-## 🚀 How to Run Locally
+##  How to Run Locally
 
 ```bash
 git clone https://github.com/mak-1007/Aman-Portfolio.git
@@ -148,7 +148,7 @@ Give it a ⭐ on GitHub and feel free to fork it!
 ## 🧑‍💻 Author
 
 **Mohammad Aman Khan**
-Java Full Stack Developer 🚀
+Java Full Stack Developer 
 
 ---
 
